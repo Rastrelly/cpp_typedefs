@@ -44,7 +44,7 @@ int main()
 	nmb a = 2;
 	nmb b = 5;
 	nmb c = a + b;
-    std::cout << c << std::endl;
+	std::cout << c << std::endl;
 	cout << "Got doubled vector:\n";
 	doublevalues(m);
 	printvalues(m);
